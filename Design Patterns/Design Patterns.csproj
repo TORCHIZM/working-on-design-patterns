@@ -56,6 +56,13 @@
     <Compile Include="CompositePattern\ProductCatalog.cs" />
     <Compile Include="CompositePattern\Product.cs" />
     <Compile Include="CompositePattern\RunIt.cs" />
+    <Compile Include="DecoratorPattern\BaseDataSourceDecorator.cs" />
+    <Compile Include="DecoratorPattern\CompressionDecorator.cs" />
+    <Compile Include="DecoratorPattern\FileDataSource.cs" />
+    <Compile Include="DecoratorPattern\IDataSource.cs" />
+    <Compile Include="DecoratorPattern\RunIt.cs" />
+    <Compile Include="FacadePattern\BlackListService.cs" />
+    <Compile Include="FacadePattern\Customer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PrototypePattern\Employee.cs" />
@@ -77,5 +84,6 @@
   <ItemGroup>
     <Content Include="BridgePattern\bridge-old.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

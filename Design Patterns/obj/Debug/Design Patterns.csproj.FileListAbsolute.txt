@@ -5,3 +5,10 @@ C:\Users\Torchizm\source\repos\Design Patterns\Design Patterns\obj\Debug\Design 
 C:\Users\Torchizm\source\repos\Design Patterns\Design Patterns\obj\Debug\Design Patterns.csproj.CoreCompileInputs.cache
 C:\Users\Torchizm\source\repos\Design Patterns\Design Patterns\obj\Debug\Design Patterns.exe
 C:\Users\Torchizm\source\repos\Design Patterns\Design Patterns\obj\Debug\Design Patterns.pdb
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\bin\Debug\Design Patterns.exe.config
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\bin\Debug\Design Patterns.exe
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\bin\Debug\Design Patterns.pdb
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\obj\Debug\Design Patterns.csprojAssemblyReference.cache
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\obj\Debug\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\obj\Debug\Design Patterns.exe
+C:\Users\Torchizm\source\repos\working-on-design-patterns\Design Patterns\obj\Debug\Design Patterns.pdb
